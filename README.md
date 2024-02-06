@@ -15,4 +15,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - GITHUB
 
 ## ⚡ ROCKSTAR GAMES
-Você pode visualizar o site referência do projeto através [desse link]([https://pokeapi.co/](https://support.rockstargames.com/categories/200013306)https://support.rockstargames.com/categories/200013306).
+Você pode visualizar o site referência do projeto através [desse link](https://support.rockstargames.com/categories/200013306)
